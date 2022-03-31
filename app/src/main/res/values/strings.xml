@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ComicBook</string>
+    <string name="ingrese_la_contrase_a">Ingrese la Contraseña</string>
+    <string name="inicio_sesion">Inicio Sesion</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="todo1">TODO</string>
+    <string name="ingrese_su_nick_name">Ingrese su Nick Name</string>
+    <string name="perfil">Perfil</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="edad">Edad</string>
+    <string name="tipo_persona">Tipo_Persona</string>
+    <string name="catalogos">Catalogos</string>
+    <string name="publicacion_comic">Publicacion Comic</string>
+    <string name="consumiendo_servicios">Consumiendo Servicios</string>
+    <string name="todoe">TODO</string>
+    <string name="codigo_persona">Codigo Persona</string>
+    <string name="fecha1">Fecha</string>
+    <string name="registrarse2">Registrarse</string>
+    <string name="cancelar3">Cancelar</string>
+    <string name="crea_una_contrase_a">Crea una Contraseña</string>
+    <string name="ingresa_tu_correo_electronico">Ingresa tu Correo Electronico</string>
+    <string name="ingresa_tu_fecha_nacimiento">Ingresa tu Fecha Nacimiento</string>
+    <string name="ingresa_tu_apellido">Ingresa tu Apellido</string>
+    <string name="ingresa_tu_nombre">Ingresa tu Nombre</string>
+    <string name="todo2221">TODO</string>
+    <string name="todo3331">TODO</string>
+    <string name="crea_un_nick_name">Crea un Nick Name</string>
+    <string name="codigo">Codigo</string>
+    <string name="serial_comic">Serial Comic</string>
+    <string name="fecha">Fecha</string>
+    <string name="todo222">TODO</string>
+    <string name="todo1111">TODO</string>
+    <string name="ingresa_el_titulo_del_comic">Ingresa el Titulo del Comic</string>
+    <string name="ingrese_la_editorial_del_comic">Ingrese la editorial del Comic</string>
+    <string name="ingrese_el_numero_de_tomos">Ingrese el numero de Tomos</string>
+    <string name="descripcion_del_comic">Descripcion del Comic</string>
+    <string name="registrar_comic">Registrar Comic</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="titulo">Titulo</string>
+    <string name="editorial">Editorial</string>
+    <string name="numero_tomo">Numero Tomo</string>
+    <string name="genero_comic">Genero Comic</string>
+    <string name="tipocomic">TipoComic</string>
+    <string name="todo">TODO</string>
+    <string name="todo3123">TODO</string>
+    <string name="crear_base">Crear Base</string>
+    <string-array name="TipoPersona">
+        <item>Seleccione el tipo de persona</item>
+        <item>Autor</item>
+        <item>Lector</item>
+    </string-array>
+    <string-array name="Genero_Comic">
+        <item>Seleccione el Genero Comic</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Accion</item>
+        <item>Horror</item>
+        <item>Escolar</item>
+    </string-array>
+    <string-array name="Tipo_Comic">
+        <item>Seleccione el Tipo Comic</item>
+        <item>Manga</item>
+        <item>SuperHerores</item>
+        <item>Manhua</item>
+        <item>Novela</item>
+    </string-array>
+</resources>
